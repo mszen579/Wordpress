@@ -4,7 +4,7 @@ Please check my Wordpress projects below:
 https://www.market.msz.tech-labs.nl
 
 2- E-Commerce
-https://www.ecommerce.msz.tech-labs.nl
+http://ecommerce.msz.tech-labs.nl/public_html/msz/
 
 3- Simple Brochure Website:
 https://www.brochure.msz.tech-labs.nl
